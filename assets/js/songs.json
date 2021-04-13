@@ -1,0 +1,102 @@
+{"data":
+[
+    
+    {
+    "song_id" : 1,
+    "song_name" : "Ek Pal Ka Jeena",
+    "song_url" : "assets/songs/Ek Pal Ka Jeena.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 2,
+    "song_name" : "Bang Bang",
+    "song_url" : "assets/songs/bang-bang.mp3",
+    "song_thumbnail" : "https://www.bollywoodlife.com/wp-content/uploads/2014/07/bang-bang-poster-oct-2.jpg"
+},
+{
+    "song_id" : 3,
+    "song_name" : "Memories",
+    "song_url" : "assets/songs/memories.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 4,
+    "song_name" : "faded",
+    "song_url" : "assets/songs/faded.mp3",
+    "song_thumbnail" : "https://www.bollywoodlife.com/wp-content/uploads/2014/07/bang-bang-poster-oct-2.jpg"
+},
+{
+    "song_id" : 5,
+    "song_name" : "In The End",
+    "song_url" : "assets/songs/In The End.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 6,
+    "song_name" : "Girls Like You",
+    "song_url" : "assets/songs/Girls Like You.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 7,
+    "song_name" : "Lost Soul Mashup",
+    "song_url" : "assets/songs/Lost Soul Mashup.mp3",
+    "song_thumbnail" : "https://www.bollywoodlife.com/wp-content/uploads/2014/07/bang-bang-poster-oct-2.jpg"
+},
+{
+    "song_id" : 8,
+    "song_name" : "rockstar",
+    "song_url" : "assets/songs/rockstar.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 9,
+    "song_name" : "Psycho",
+    "song_url" : "assets/songs/psycho.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 10,
+    "song_name" : "joker",
+    "song_url" : "assets/songs/joker.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 11,
+    "song_name" : "takeawaymashup",
+    "song_url" : "assets/songs/Takeaway x Happier x Faded [Mashup] - The Chainsmokers, Marshmello, Alan Walker & More!.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},
+{
+    "song_id" : 12,
+    "song_name" : "Cheap Thrills",
+    "song_url" : "assets/songs/CheapThrills.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},  
+ {
+    "song_id" : 13,
+    "song_name" : "Night Lovell",
+    "song_url" : "assets/songs/Night Lovell.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},   {
+    "song_id" : 14,
+    "song_name" : "closer",
+    "song_url" : "assets/songs/closer.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},   {
+    "song_id" : 15,
+    "song_name" : "Let Me",
+    "song_url" : "assets/songs/let me.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},   {
+    "song_id" : 16,
+    "song_name" : "Alive",
+    "song_url" : "assets/songs/alive.mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+},   {
+    "song_id" : 17,
+    "song_name" : "Bazzi",
+    "song_url" : "assets/songs/Bazzi - Mine (Lyrics).mp3",
+    "song_thumbnail" : "https://i.pinimg.com/originals/bb/e2/54/bbe254c7b1c689c9b1e867cdc788917f.jpg"
+}
+]}
