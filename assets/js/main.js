@@ -161,6 +161,7 @@ function nextSong(){
         for(;Index<songs.length;Index++){
         audio.src = songs[current_song_idx+=1].song_url;
     audio.play();
+            totaaltime();
     if(current_song_idx+1>=songs.length-1){
         current_song_idx=-1;
     }
@@ -171,6 +172,7 @@ function nextSong(){
    if(current_song_idx>0){
         audio.src = songs[current_song_idx-=1].song_url;
     audio.play();
+       totaltime();
    }
     }
 
